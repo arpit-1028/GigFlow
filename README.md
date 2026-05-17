@@ -5,9 +5,9 @@ GigFlow is a production-grade, secure, and modern full-stack **Lead Acquisition,
 ---
 
 ## 🚀 Deployment Links (Production Ready)
-- **Frontend App (Vercel)**: `https://gigflow-leads.vercel.app` *(Replace with your deployed URL)*
-- **Backend API (Render)**: `https://gigflow-api.onrender.com` *(Replace with your deployed URL)*
-- **GitHub Repository**: `https://github.com/your-username/GigFlow` *(Replace with your repository URL)*
+- **Frontend App (Vercel)**: `https://gig-flow-omega.vercel.app/`
+- **Backend API (Render)**: `https://gigflow-api-uoek.onrender.com/`
+- **GitHub Repository**: `https://github.com/arpit-1028/GigFlow`
 
 ---
 
